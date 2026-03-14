@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Best Practices"
+  short_description: "Bootstrap projects with official Codex setup guidance"
+  default_prompt: "Use $codex-best-practices to set up this repository with official Codex best practices."
+
+policy:
+  allow_implicit_invocation: false
