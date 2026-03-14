@@ -47,7 +47,9 @@ sed -n '1,220p' codex/skills/codex-best-practices/SKILL.md
 ```text
 .
 ├── codex/
+│   ├── README.md
 │   └── skills/
+│       ├── README.md
 │       └── codex-best-practices/
 │           ├── agents/
 │           ├── references/
